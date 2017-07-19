@@ -1,0 +1,19 @@
+{
+  "name": "glitcher",
+  "version": "0.1.0",
+  "description": "Glitcher is a simple tool to help developers cut designs. It compares your design's image with the actual website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glitcher"
+  ],
+  "author": "Piotr Kwiatek",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
